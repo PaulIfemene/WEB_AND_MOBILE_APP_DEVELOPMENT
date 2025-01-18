@@ -5,4 +5,9 @@ function greeting(name) {
 }
 
 let userName = "Chukwuma";
+
+let stdno = "M24B13034"
+
 console.log(greeting(userName));
+
+console.log(stdno);
